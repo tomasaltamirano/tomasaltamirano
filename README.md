@@ -1,4 +1,4 @@
-<a href="https://i.imgur.com/JVq3QDa.png" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
+<a href="https://i.imgur.com/JVq3QDa.png" target="blank"><img align="center" src="https://i.imgur.com/JVq3QDa.png" height="100" /></a>
 <h3 align="center">Frontend Developer en proceso</h3>
 
 - 🔭 Actualmente me encuentro trabajando un encriptador de texto propuesto por Alura **Encriptador Alura**
