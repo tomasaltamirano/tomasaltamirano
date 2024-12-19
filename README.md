@@ -1,7 +1,7 @@
 ### <h1 align="center"><b>Hi , I'm Tomás </b><img src="hi.gif" width="60"></h1>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="270" width="380" alt="GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif">
+  <img align="right" top="500" height="170" width="280" alt="GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif">
 </a>
 
 ### 🎖️ ***About me***
