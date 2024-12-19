@@ -1,28 +1,37 @@
+### <h1 align="center"><b>Hi , I'm Tomás </b><img src="hi.gif" width="60"></h1>
 
+<a target="_blank" align="center">
+  <img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif">
+</a>
 
-## Hi! <img src="hi.gif" width="60"></h2>
-i'm Tomas, a 25 years old web dev student from Buenos Aires, Argentina
+### 🎖️ ***About me***
 
+<p>I am a software developer student at UTN FRA i like to create projects in JavaScript and Python.</p>
 
-## Skills
-- 👨‍💻 JavaScript,
-- HTML
-- SASS, CSS, Bootstrap, 
+- ❤️ I like creating websites with a good UX.
+- 🌱 I’m currently learning...
+  - Java
+  - React
+  - TypeScript
+- 🤝 I’m looking forward to collaborate on open source projects.
+## 💻 ***Tech stack***:
 
-## Actually learning 
-- 🚀 React, Tailwind, NodeJS
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src= "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  
 
-## Design
-- Figma
-- Prototyping
-- Wireframing
+</span>
 
-## Tools
-- Git & Github
-- CMD
-
-## Contact
-
-- [@tomaltamirano](https://twitter.com/tomaltamirano_) on Twitter
-- [tomasaltamirano](https://www.linkedin.com/in/tomasaltamirano/) on LinkedIn
-- [Tomi#2121](./) on Discord
+<h4> Other Tools and Technologies </h4>
+<span>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white">
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
+</span>
