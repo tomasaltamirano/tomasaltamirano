@@ -1,23 +1,26 @@
-### <h1 align="center"><b>Hi , I'm Tomás </b><img src="hi.gif" width="60"></h1>
+### <h1><b>Hi , I'm Tomás </b><img src="hi.gif" width="70"></h1>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="170" width="280" alt="GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif">
-</a>
+### About me🎖️ 
 
-### 🎖️ ***About me***
+```javascript
+const data = {
+    status: ["Looking for my first job"],
+    askMeAbout: ["web dev", "frontend dev", "python"],
+    currentlyLearning: {
+        frontend: ["TypeScript", "React"],
+        backend: ["Python", "Java"]
+    }
+}
+```
 
-<p>I am a software developer student i like to create projects in JavaScript and Python.</p>
+<p>A little more about me:</p>
 
-- ❤️ I like creating websites with a good UX.
-- 🌱 I’m currently learning...
-  - Java
-  - React
-  - TypeScript
+- 👍 I like creating websites with a good UX.
 - 📚 student of technicature in programming at UTN
 - 🤝 I’m looking forward to collaborate on open source projects.
-## Tech stack:
+## Tech stack 💻:
 
-<h4> Languages </h4>
+### Languages 
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -36,6 +39,10 @@
   <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white">
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
 </span>
+
+
+### <img align="center" top="500" height="170" width="280" alt="GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif">
+  
 
 
 
