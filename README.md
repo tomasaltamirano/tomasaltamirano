@@ -1,23 +1,21 @@
-### <h1><b>Hi , I'm Tomás </b><img src="hi.gif" width="70"></h1>
-
+### <h1><b>Hey there! </b><img src="hi.gif" width="70"></h1>
+i'm a programming student who enjoy building user-friendly apps and learning new things.
 ### About me🎖️ 
 
 ```javascript
 const data = {
-    status: ["Looking for my first job"],
+    name: "Tomás",
+    status: "Looking for my first job",
     askMeAbout: ["web dev", "frontend dev", "python"],
-    currentlyLearning: {
-        frontend: ["TypeScript", "React"],
-        backend: ["Python", "Java"]
-    }
+    currentlyLearning: {frontend: ["TypeScript", "React"], backend: ["Python", "Java"]}
 }
 ```
 
 <p>A little more about me:</p>
 
-- 👍 I like creating websites with a good UX.
+- 👍 I enjoy designing and developing websites with a focus on great UX.
+- 🤝 I’m looking forward to collaborating on open source projects.
 - 📚 Programming Technicature student at the National Technological University (UTN)
-- 🤝 I’m looking forward to collaborate on open source projects.
 ## Tech stack 💻:
 
 ### Languages 
