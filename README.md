@@ -16,7 +16,7 @@ const data = {
 <p>A little more about me:</p>
 
 - 👍 I like creating websites with a good UX.
-- 📚 student of technicature in programming at UTN
+- 📚 Programming Technicature student at the National Technological University (UTN)
 - 🤝 I’m looking forward to collaborate on open source projects.
 ## Tech stack 💻:
 
