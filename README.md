@@ -15,7 +15,7 @@ const data = {
 
 - 👍 I enjoy designing and developing websites with a focus on great UX.
 - 🤝 I’m looking forward to collaborating on open source projects.
-- 📚 Programming Technicature student at the National Technological University (UTN)
+- 📚 Superior technician in programming student at the National Technological University (UTN)
 ## Tech stack 💻:
 
 ### Languages 
